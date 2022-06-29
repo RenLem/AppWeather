@@ -1,3 +1,6 @@
+**NEED to configurate path to DATABASE 'db.mv.db' in application.properties.**
+Like this -> spring.datasource.url=jdbc:h2:C:/[...your path to database...]/db
+
 --REQUESTS by which you can test Api.
 
 
